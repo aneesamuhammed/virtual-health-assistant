@@ -1,0 +1,48 @@
+{
+    "greeting": [
+        "Hello! How can I assist you today?",
+        "Hi there! How can I help you?",
+        "Hey! Need some medical advice?"
+    ],
+    "thanks": [
+        "You're welcome!",
+        "Glad to be of help!",
+        "No problem! Happy to assist!"
+    ],
+    "small_talk": [
+        "I'm just an AI assistant! How can I assist?",
+        "I'm doing well, thanks for asking!",
+        "I'm here to help! What's on your mind?"
+    ],
+    "unknown_disease": [
+        "I don’t have much information on that disease. You may want to check with a healthcare provider.",
+        "I'm not sure about that specific disease, but I suggest consulting a medical expert.",
+        "That sounds unfamiliar to me. Please visit a healthcare professional for more details."
+    ],
+    "emergency_advice": [
+        "If you're experiencing severe symptoms, it's best to consult a doctor immediately.",
+        "If you feel your condition worsening or symptoms don't improve, seek professional medical advice.",
+        "For serious or persistent symptoms, always reach out to a healthcare provider."
+    ],
+    "natural_remedies": [
+        "For flu, try staying hydrated, get plenty of rest, and drink warm liquids like herbal tea.",
+        "Try some ginger tea for headaches, and rest. Hydration is key for recovery!",
+        "Natural remedies can help alleviate mild symptoms, but it's best to consult a doctor for accurate treatment."
+    ],
+    "lifestyle_advice": [
+        "To stay healthy, eat balanced meals, exercise regularly, and get enough sleep!",
+        "Exercise, a healthy diet, and reducing stress can boost immunity.",
+        "A good lifestyle includes regular exercise, plenty of water, and a balanced diet."
+    ],
+    "motivation": [
+        "Believe in yourself! The sky's the limit.",
+        "Stay positive, work hard, and make it happen!",
+        "You are capable of amazing things. Keep going!"
+    ],
+    "engagement": [
+        "Why did the doctor carry a red pen? In case they needed to draw blood!",
+        "Why don't skeletons fight each other? They don’t have the guts!",
+        "I love movies! But I’m better at helping you with health-related queries."
+    ]
+}
+
